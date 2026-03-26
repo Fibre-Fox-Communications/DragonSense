@@ -156,7 +156,7 @@ Take appropriate precautions:
 - Validate all wiring before connecting live loads
 - Design fail-safe behaviour for sensor or control faults
 - Always engage a Licenced Electrician for any electrical works
-- No Seriously, do not attempt any electrical works unless authorised to do so, you could accidenlty take the forever nap; or worse, injure you reptile !!
+- **No Seriously**, do not attempt any electrical works unless authorised to do so, you could accidentally take the forever nap; or worse, injure you reptile !!
 
 --- 
 
